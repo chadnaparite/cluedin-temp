@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+	<RepositoryUrl>https://github.com/chadnaparite/cluedin-temp</RepositoryUrl>
   </PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="CluedIn.Core" />
